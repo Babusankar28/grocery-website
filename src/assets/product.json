@@ -1,0 +1,115 @@
+[
+  {
+    "title": "Apples",
+    "price": 200,
+    "wishlist": false,
+    "count": 0,
+    "img": "https://img.freepik.com/free-photo/side-close-up-view-apples-rope-appetizing-fruits-basket_140725-73989.jpg?t=st=1729486288~exp=1729489888~hmac=4276a85b6d7928b049ea81712a531c25847bcf3fc3309740df4d15bf35ad5fe9&w=1060"
+  },
+  {
+    "title": "Bananas",
+    "price": 60,
+    "wishlist": false,
+    "count": 0,
+    "img": "https://img.freepik.com/free-photo/bunch-yellow-bananas-gray-table_114579-57766.jpg?t=st=1729486354~exp=1729489954~hmac=afde68c1153d5b2c74f812eee49d84eeae45e1e5ba43739f50954fb619a37e07&w=1060"
+  },
+  {
+    "title": "Bread",
+    "price": 50,
+    "wishlist": false,
+    "count": 0,
+    "img": "https://img.freepik.com/free-photo/photo-sliced-high-protein-bread-isolated-white-background_125540-3941.jpg?t=st=1729486602~exp=1729490202~hmac=182bd8c9aa03eb2d4a482a2fdb14dfe79ea51d65b97534d0fd3b374fd119b28d&w=1060"
+  },
+  {
+    "title": "Milk",
+    "price": 60,
+    "wishlist": false,
+    "count": 0,
+    "img": "https://img.freepik.com/premium-photo/milk-packaging-plastic-bottle-mockup-display-podium-paper-cut-fields-cows-milk-splashes_1199132-169439.jpg?w=1060"
+  },
+  {
+    "title": "Eggs",
+    "price": 80,
+    "wishlist": false,
+    "count": 0,
+    "img": "https://img.freepik.com/free-photo/eggs-placed-basket_1150-13762.jpg?t=st=1729486691~exp=1729490291~hmac=33ca6c84b81dcf9e3bfa4a5e85bae63dc8d46b91a5ae60dabf9a7abc74b87a9f&w=1060"
+  },
+  {
+    "title": "Biscuits",
+    "price": 70,
+    "wishlist": false,
+    "count": 0,
+    "img": "https://img.freepik.com/premium-photo/oreo-cookies-stacked-top-each-other-white-background-transparent_943657-24581.jpg?w=1060"
+  },
+  {
+    "title": "Rice",
+    "price": 90,
+    "wishlist": false,
+    "count": 0,
+    "img": "https://img.freepik.com/free-photo/sack-rice-seed-with-white-rice-small-wooden-spoon-rice-plant_1150-35744.jpg?t=st=1729487750~exp=1729491350~hmac=9f5421820c4044eab7cbf32b91290321a84d5f918d6bd0ff2f1f4547806edac6&w=1060"
+  },
+  {
+    "title": "Chocolate",
+    "price": 150,
+    "wishlist": false,
+    "count": 0,
+    "img": "https://img.freepik.com/free-vector/promotion-banner-package-milk-chocolate-with-hazelnuts-isolated-brown-background_1441-2198.jpg?t=st=1729488758~exp=1729492358~hmac=5acebb3769a94887b0988cdbb5d25c7274ccd029b0f8201acc8da4f70f5cdc2c&w=996"
+  },
+
+  {
+    "title": "Tomatoes",
+    "price": 40,
+    "wishlist": false,
+    "count": 0,
+    "img": "https://img.freepik.com/free-photo/tomatoes_144627-15412.jpg?t=st=1729487889~exp=1729491489~hmac=76cd110225f4eb7b80d2c24ce2a8d396cb31427917fd016a4b7d3967eee13304&w=1060"
+  },
+  {
+    "title": "Carrots",
+    "price": 50,
+    "wishlist": false,
+    "count": 0,
+    "img": "https://img.freepik.com/free-photo/top-view-pumpkin-carrots_23-2148758851.jpg?t=st=1729488145~exp=1729491745~hmac=1080f05c59129c43d2ae3290907ab24ecabbb2603b9918377c0f82446cd4edd5&w=1060"
+  },
+  {
+    "title": "Cheese",
+    "price": 300,
+    "wishlist": false,
+    "count": 0,
+    "img": "https://img.freepik.com/free-photo/front-view-delicious-fresh-cheese_23-2150166967.jpg?t=st=1729488177~exp=1729491777~hmac=f4240831a89bf4ffd608003ee11db912d536c13aef9b71d713bd837f05db7c96&w=1060"
+  },
+  {
+    "title": "Butter",
+    "price": 250,
+    "wishlist": false,
+    "count": 0,
+    "img": "https://img.freepik.com/premium-photo/butter-isolated-white-stick-butter-cut-isolated-white_1036975-243348.jpg?w=1060"
+  },
+  {
+    "title": "Oranges",
+    "price": 120,
+    "wishlist": false,
+    "count": 0,
+    "img": "https://img.freepik.com/premium-photo/oranges-growing-trees-farm_1205263-179138.jpg?w=900"
+  },
+  {
+    "title": "Potatoes",
+    "price": 45,
+    "wishlist": false,
+    "count": 0,
+    "img": "https://img.freepik.com/free-photo/top-view-raw-potatoes-table_23-2148540406.jpg?t=st=1729488334~exp=1729491934~hmac=6e3a70880424b88d5ad1a8caba4916859a29b9530dbacdced046d94d55375819&w=1060"
+  },
+  {
+    "title": "Spinach",
+    "price": 35,
+    "wishlist": false,
+    "count": 0,
+    "img": "https://img.freepik.com/premium-photo/spinach-isolated-white-background_1368-546828.jpg?w=1060"
+  },
+  {
+    "title": "Yogurt",
+    "price": 100,
+    "wishlist": false,
+    "count": 0,
+    "img": "https://img.freepik.com/premium-photo/illustration-dairy-yogurt-container_1197797-268229.jpg?w=1060"
+  }
+]

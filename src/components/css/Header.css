@@ -1,0 +1,60 @@
+.header {
+  background-color: white;
+}
+.title {
+  font-size: 30px;
+  color: inherit;
+  font-weight: 800;
+  text-decoration: none;
+}
+.title span {
+  color: lightgreen;
+}
+
+.header-inputs {
+  border: 1px solid rgb(224, 224, 224);
+  border-radius: 5px;
+  overflow: hidden;
+}
+.header-inputs * {
+  height: 100%;
+  border: none;
+  padding: 1px 15px;
+  outline: none;
+  color: gray;
+}
+
+.header-inputs input {
+  border-right: 1px solid rgb(192, 192, 192);
+}
+
+.header-inputs button {
+  margin-left: 10px;
+  padding: 8px 20px;
+  background-color: rgb(78, 201, 78);
+  color: rgb(13, 13, 13);
+  font-weight: 500;
+}
+
+.header-buttons button {
+  border: none;
+  background-color: transparent;
+  padding: 10px;
+  font-size: 20px;
+  position: relative;
+}
+.header-buttons span {
+  position: absolute;
+  font-size: 10px;
+  right: 0;
+  top: 5px;
+  background-color: rgb(6, 177, 6);
+  color: white;
+  padding: 1px 6px;
+  border-radius: 50%;
+}
+@media screen and (max-width: 567px) {
+  .header-inputs * {
+    padding: 8px;
+  }
+}

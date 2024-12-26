@@ -1,0 +1,13 @@
+.product-card img {
+  height: 200px;
+  width: 100%;
+  object-fit: cover;
+}
+
+.product-card:hover {
+  transform: scale(102%);
+  cursor: pointer;
+}
+.product-card {
+  overflow: hidden;
+}

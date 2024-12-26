@@ -1,0 +1,30 @@
+.main {
+  background-image: linear-gradient(rgba(1, 1, 1, 0.6), rgba(1, 1, 1, 0.6)),
+    url("../../images/9697946.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.main-title {
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: start;
+  flex-direction: column;
+}
+.main-title h2 {
+  color: lightgreen;
+  font-size: 40px;
+}
+
+.products-container {
+  background-image: linear-gradient(
+      rgba(40, 40, 40, 0.3),
+      rgba(40, 40, 40, 0.3)
+    ),
+    url("../../images/product_bg.png");
+  background-size: 50%;
+  border-radius: 20px;
+  background-color: rgb(179, 250, 179);
+}

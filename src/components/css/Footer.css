@@ -1,0 +1,26 @@
+.footer a {
+  text-decoration: none;
+  color: inherit;
+}
+.footer h5 {
+  font-weight: 700;
+  border-bottom: 1px solid lightgreen;
+  padding-bottom: 15px;
+  text-align: center;
+}
+.footer .icon-container {
+  border-radius: 50%;
+  aspect-ratio: 1/1;
+  width: 30px;
+  font-weight: 700;
+  border: 2px solid rgb(157, 157, 157);
+  text-align: center;
+}
+.footer .icon-container i {
+  margin-top: 1px;
+  display: inline-block;
+}
+.footer a:hover {
+  color: lightgreen;
+  text-decoration: underline;
+}
