@@ -62,8 +62,7 @@ function Footer() {
                 <div>
                   <b>Address : </b>
                   <p>
-                    11-9//31,Bharathipuram 9th Street, <br />
-                    S.Alangulam, <br /> Madurai -625017.
+                    Madurai -625017.
                   </p>
                 </div>
               </div>
